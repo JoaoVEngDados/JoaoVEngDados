@@ -7,7 +7,7 @@
 
 - 👨‍💻🕵🏼​ Você pode me encontrar também no Linkedin onde posto minhas experiências de estudante : [www.linkedin.com/in/joão-vitor-silva-20049b1a3](www.linkedin.com/in/joão-vitor-silva-20049b1a3)
 
-- 📫 Como você Você me encontra 📧​ : **joaoeyo@gmail.com**
+- 📫 Como  Você me encontra 📧​ : **joaoeyo@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
