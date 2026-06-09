@@ -45,7 +45,7 @@ Sou um estudante apaixonado por tecnologia, focado em transformar dados brutos e
 ### 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVEngDados&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub de João Vitor" width="48%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVEngDados&theme=radium&hide_border=true" alt="GitHub Streak de João Vitor" width="48%" />
 </div>
 
